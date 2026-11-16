@@ -31,7 +31,7 @@ O projeto Conecta utiliza na prática os conteúdos aprendidos na unidade [Unida
 
 Esses projetos funcionam como conexões entre os conceitos estudados na disciplina e suas aplicações práticas em projetos reais de software.
 
-##Objetivos:
+## Objetivos:
 
 * Compreender os fundamentos da Engenharia de Requisitos;
 * Identificar as necessidades dos stakeholders;
