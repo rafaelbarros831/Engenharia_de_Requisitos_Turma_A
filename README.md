@@ -41,4 +41,6 @@ Esses projetos funcionam como conexões entre os conceitos estudados na discipli
 * Estudar características de qualidade de software;
 * Desenvolver modelos para representação de sistemas;
 * Relacionar conceitos teóricos com aplicações práticas.
+<br>
+**OBS:** Os materiais disponíveis no formato .md deste repositório foram elaborados por [EltonVLopes](https://github.com/EltonVLopes)
   
